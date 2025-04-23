@@ -1,0 +1,85 @@
+{
+    "navbar": {
+      "home": "Startseite",
+      "skills": "Fähigkeiten",
+      "portfolio": "Portfolio",
+      "offers": "Angebote",
+      "reviews": "Bewertungen",
+      "contact": "Kontakt",
+      "language": "Sprache"
+    },
+  
+    "home": {
+      "heading": "Erstellung großartiger Websites",
+      "subtitle": "Ich bin John Doe | Full-Stack-Entwickler",
+      "short-descrip": "Es gibt viele Varianten von Lorem Ipsum, aber die meisten wurden in irgendeiner Weise verändert, durch eingefügten Humor.",
+      "hire-btn": "Stellen Sie mich ein",
+      "contact-btn": "Kontaktieren Sie mich"
+    },
+  
+    "skills": {
+      "heading": "02. Fähigkeiten",
+      "section-descrip": "Lorem Ipsum ist einfach ein Blindtext der Druck- und Satzindustrie. Lorem Ipsum ist seit langem der Standard.",
+      "sub-section-title": "Zertifikat"
+    },
+  
+    "portfolio": {
+      "heading": "03. Portfolio",
+      "preview": "Live-Vorschau"
+    },
+  
+    "offers": {
+      "heading": "04. Angebote",
+      "offer-item-title-two": "Zeigen Sie Ihre Arbeiten mit dieser atemberaubenden Vorlage [Kostenloser Download]",
+      "offer-type-one": "Sonderangebot",
+      "offer-type-two": "Gratisangebot"
+    },
+  
+    "reviews": {
+      "heading": "05. Bewertungen",
+      "rating": "Bewertung",
+      "next": "Nächste Bewertung",
+      "position": "Kunde"
+    },
+  
+    "contact": {
+      "heading": "05. Kontakt",
+      "section-descrip": "Wenn Sie einen Vorschlag, ein Projekt haben oder einfach nur Hallo sagen möchten, füllen Sie bitte das untenstehende Formular aus und ich werde Ihnen in Kürze antworten.",
+  
+      "form": {
+        "name": "Name",
+        "email": "E-Mail",
+        "phone": "Telefon",
+        "subject": "Betreff",
+        "message": "Nachricht"
+      },
+  
+      "errors": {
+        "general": "* Darf nicht leer sein & Sonderzeichen sind nicht erlaubt",
+        "phone": "* Es sollte eine gültige Telefonnummer sein",
+        "email": "* Darf nicht leer sein & Es sollte eine gültige E-Mail-Adresse sein",
+        "emptyMsg": "* Das Nachrichtenfeld darf nicht leer sein",
+        "shortMsg": "* Das Nachrichtenfeld darf nicht zu kurz sein",
+        "specialChars": "* Sonderzeichen sind nicht erlaubt",
+        "submitError": "Hoppla! Ein Fehler ist aufgetreten und Ihre Nachricht konnte nicht gesendet werden. Bitte versuchen Sie es erneut"
+      },
+      "successMsg": "Vielen Dank für Ihre Kontaktaufnahme. Ihre Nachricht wurde erfolgreich gesendet. Ich werde Sie so bald wie möglich kontaktieren.",
+      "optional": "Optional",
+      "send-btn": "Nachricht senden"
+    },
+  
+    "error": {
+      "heading": "Fehler 404",
+      "home-btn": "Startseite",
+      "section-title": "Hoppla! Diese Seite wurde nicht gefunden"
+    },
+  
+    "sidebar": {
+      "name": "John Doe",
+      "position": "Full-Stack-Entwickler",
+      "bio": "Es gibt viele Varianten von Lorem Ipsum, aber die meisten wurden in irgendeiner Weise verändert, durch eingefügten Humor oder zufällig generierte Wörter, die nicht einmal annähernd glaubwürdig aussehen.",
+      "contact-heading": "In Kontakt bleiben",
+      "download-resume-btn": "Meinen Lebenslauf herunterladen"
+    }
+  }
+  
